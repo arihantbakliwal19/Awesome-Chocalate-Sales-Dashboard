@@ -1,2 +1,50 @@
-# Awesome-Chocalate-Sales-Dashboard
-Interactive sales dashboard using Power BI and Excel for Awesome Chocolates.
+# 🍫 Awesome Chocolates Sales Dashboard
+
+An end-to-end business intelligence project combining **Power BI** and **Excel** to deliver a powerful, interactive, and executive-level dashboard for tracking and analyzing the sales performance of *Awesome Chocolates*.
+
+---
+
+## 🧠 About the Project
+
+In a competitive FMCG market, data-driven insights are critical for making timely and impactful business decisions. The *Awesome Chocolates Sales Dashboard* was developed to offer key stakeholders a unified view of product sales across multiple regions and time periods. By transforming raw sales data into clean, digestible visuals, this dashboard bridges the gap between data and decision-making.
+
+Whether you’re a sales head looking to monitor KPIs, a product manager aiming to identify bestsellers, or a data analyst presenting trends to management — this dashboard has something for everyone.
+
+---
+
+## 🔧 Tools & Technologies Used
+
+| Tool | Purpose |
+|------|---------|
+| **Power BI** | Main visualization tool; used for building interactive dashboards |
+| **Microsoft Excel** | Data storage, formatting, and preprocessing |
+| **Power Query** | ETL (Extract, Transform, Load) operations |
+| **DAX** | Custom measures and calculated columns for KPIs |
+
+---
+
+## 📊 Dashboard Features
+
+- ✅ **Sales Overview**  
+  View total revenue, profit, and quantity sold at a glance.
+
+- ✅ **Regional Sales Analysis**  
+  Compare performance across different states, cities, or zones.
+
+- ✅ **Product-Wise Insights**  
+  Analyze top-selling chocolate variants by volume and value.
+
+- ✅ **Monthly & Quarterly Trends**  
+  Track how sales evolve over time and identify seasonality.
+
+- ✅ **Customer Segmentation (if applicable)**  
+  Insights into customer types (retailers, distributors, etc.)
+
+- ✅ **Interactive Slicers & Filters**  
+  Drill down by region, product, time period, or channel.
+
+---
+
+## 🗂️ Folder Structure
+
+
