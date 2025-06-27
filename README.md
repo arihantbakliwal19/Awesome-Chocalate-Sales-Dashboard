@@ -47,13 +47,9 @@ Whether you’re a sales head looking to monitor KPIs, a product manager aiming 
 
 ## 🗂️ Folder Structure
 awesome-chocolates-sales-dashboard/
-│
 ├── 📊 AwesomeChocolatesDashboard.pbix # Power BI file
-
 ├── 📈 SalesData.xlsx # Raw & cleaned sales data
-
 ├── 📷 screenshots/ # Folder with dashboard images
-
 ├── 📄 README.md # Project description and usage
 
 
