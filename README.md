@@ -1,8 +1,22 @@
 # 🍫 Awesome Chocolates Sales Dashboard
 
-An end-to-end business intelligence project combining **Power BI** and **Excel** to deliver a powerful, interactive, and executive-level dashboard for tracking and analyzing the sales performance of *Awesome Chocolates*.
+The Awesome Chocolates Sales Dashboard is a comprehensive data visualization and business intelligence project developed using Power BI, designed to provide deep and actionable insights into the sales performance of a fictional premium chocolate company—Awesome Chocolates.
+
+This dashboard serves as a powerful analytical tool for stakeholders such as sales managers, business analysts, and marketing teams, helping them understand revenue drivers, monitor KPIs, identify trends, and make informed decisions.
+
+The dataset is derived from real-world-inspired chocolate sales data and includes detailed information about product categories, regions, sales representatives, quantities sold, unit prices, customer preferences, and more.
+
+
+
+
 
 ---
+
+Dataset used
+<h3>📂 Dataset Used</h3>
+<ul>
+  <li><a href="https://github.com/arihantbakliwal19/Awesome-Chocalate-Sales-Dashboard/blob/main/awesome%20chocolate%20sales.xlsx">HR Dataset</a></li>
+</ul>
 
 ## 🧠 About the Project
 
